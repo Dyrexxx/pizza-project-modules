@@ -1,0 +1,11 @@
+ru\pizza\main_warehouse\MainWarehouseApplication.class
+ru\pizza\main_warehouse\services\rest\RestMakerMenuService.class
+ru\pizza\main_warehouse\services\rest\RestRestaurantService.class
+ru\pizza\main_warehouse\controllers\MainWarehouseController.class
+ru\pizza\main_warehouse\models\Ingredient$IngredientBuilder.class
+ru\pizza\main_warehouse\models\Ingredient.class
+ru\pizza\main_warehouse\utils\Utils.class
+ru\pizza\main_warehouse\models\Ingredient$Status.class
+ru\pizza\main_warehouse\models\Building.class
+ru\pizza\main_warehouse\controllers\MainWarehouseController$1.class
+ru\pizza\main_warehouse\services\MainWarehouseService.class
